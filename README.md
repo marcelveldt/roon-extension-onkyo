@@ -22,9 +22,9 @@ https://github.com/docbobo/roon-extension-denon
 1. Install Git from https://git-scm.com/downloads.
    * Following the instructions for the Operating System you are running.
 
-1. Download the Denon/Marantz AVR extension.
+1. Download the Onkyo AVR extension.
 
-   * Go to the [roon-extension-denon](https://github.com/marcelveldt/roon-extension-onkyo) page on [GitHub](https://github.com).
+   * Go to the [roon-extension-onkyo](https://github.com/marcelveldt/roon-extension-onkyo) page on [GitHub](https://github.com).
    * Click the green 'Clone or Download' button and select 'Download ZIP'.
 
 1. Extract the zip file in a local folder.
