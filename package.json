@@ -1,0 +1,18 @@
+{
+  "name": "roon-extension-onkyo",
+  "version": "0.0.1",
+  "description": "Volume Control extension to control Onkyo/Pioneer AV receivers via network.",
+  "main": "app.js",
+  "author": "marcelveldt",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "debug": "^3.1.0",
+    "eiscp": "https://github.com/simontaylor81/node-eiscp",
+    "node-roon-api": "github:roonlabs/node-roon-api",
+    "node-roon-api-settings": "github:roonlabs/node-roon-api-settings",
+    "node-roon-api-status": "github:roonlabs/node-roon-api-status",
+    "node-roon-api-volume-control": "github:roonlabs/node-roon-api-volume-control",
+    "node-roon-api-source-control": "github:roonlabs/node-roon-api-source-control"
+  }
+}
